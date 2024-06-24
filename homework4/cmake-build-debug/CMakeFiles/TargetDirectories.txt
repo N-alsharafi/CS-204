@@ -1,0 +1,3 @@
+/media/nuh/OS/Users/nuhal/Documents/Project Obsidian/Uni/Term4/CS 204/FILESCS204/homework4/cmake-build-debug/CMakeFiles/homework4.dir
+/media/nuh/OS/Users/nuhal/Documents/Project Obsidian/Uni/Term4/CS 204/FILESCS204/homework4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/nuh/OS/Users/nuhal/Documents/Project Obsidian/Uni/Term4/CS 204/FILESCS204/homework4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
